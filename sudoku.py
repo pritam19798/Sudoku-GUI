@@ -1,4 +1,4 @@
-# GUI.py
+
 import pygame
 import time
 from component import Grid,Cube
